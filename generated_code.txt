@@ -1,0 +1,65 @@
+cd ${SRC}\1980
+clear;
+capture infix
+	long	NEWID	1-8
+	byte	QINTRVMO	1011-1012
+	byte	QINTRVYR	1013-1014
+	byte	INCOMEY1	777-777
+	byte	INCOMEY2	779-779
+	double	TOTEXPPQ	1248-1259
+	double	TOTEXPCQ	1260-1271
+using 08423-0001-Data.txt;
+save f1980q1, replace;
+
+cd ${SRC}\1980
+clear;
+capture infix
+	long	NEWID	1-8
+	byte	QINTRVMO	1011-1012
+	byte	QINTRVYR	1013-1014
+	byte	INCOMEY1	777-777
+	byte	INCOMEY2	779-779
+	double	TOTEXPPQ	1248-1259
+	double	TOTEXPCQ	1260-1271
+using 08423-0005-Data.txt;
+save f1980q2, replace;
+
+cd ${SRC}\1980
+clear;
+capture infix
+	long	NEWID	1-8
+	byte	QINTRVMO	1011-1012
+	byte	QINTRVYR	1013-1014
+	byte	INCOMEY1	777-777
+	byte	INCOMEY2	779-779
+	double	TOTEXPPQ	1248-1259
+	double	TOTEXPCQ	1260-1271
+using 08423-0009-Data.txt;
+save f1980q3, replace;
+
+cd ${SRC}\1980
+clear;
+capture infix
+	long	NEWID	1-8
+	byte	QINTRVMO	1011-1012
+	byte	QINTRVYR	1013-1014
+	byte	INCOMEY1	777-777
+	byte	INCOMEY2	779-779
+	double	TOTEXPPQ	1248-1259
+	double	TOTEXPCQ	1260-1271
+using 08423-0013-Data.txt;
+save f1980q4, replace;
+
+cd ${SRC}\1980
+clear;
+capture infix
+	long	NEWID	1-8
+	byte	QINTRVMO	1011-1012
+	byte	QINTRVYR	1013-1014
+	byte	INCOMEY1	777-777
+	byte	INCOMEY2	779-779
+	double	TOTEXPPQ	1248-1259
+	double	TOTEXPCQ	1260-1271
+using 08423-0017-Data.txt;
+save f1980q5, replace;
+

@@ -1,0 +1,2049 @@
+#d ;
+cd ${SRC}\1985;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	606-616
+	int	QINTRVMO	1007-1008
+	int	QINTRVYR	1009-1010
+	int	INCOMEY1	789-789
+	int	INCOMEY2	791-791
+	double	TOTEXPPQ	1231-1242
+	double	TOTEXPCQ	1243-1254
+	long	FNONFRMX	630-638
+	long	FFRMINCX	329-337
+using 08904-0001-Data.txt;
+save ..\f1985q1, replace;
+
+cd ${SRC}\1985;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	606-616
+	int	QINTRVMO	1007-1008
+	int	QINTRVYR	1009-1010
+	int	INCOMEY1	789-789
+	int	INCOMEY2	791-791
+	double	TOTEXPPQ	1231-1242
+	double	TOTEXPCQ	1243-1254
+	long	FNONFRMX	630-638
+	long	FFRMINCX	329-337
+using 08904-0005-Data.txt;
+save ..\f1985q2, replace;
+
+cd ${SRC}\1985;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	606-616
+	int	QINTRVMO	1007-1008
+	int	QINTRVYR	1009-1010
+	int	INCOMEY1	789-789
+	int	INCOMEY2	791-791
+	double	TOTEXPPQ	1231-1242
+	double	TOTEXPCQ	1243-1254
+	long	FNONFRMX	630-638
+	long	FFRMINCX	329-337
+using 08904-0009-Data.txt;
+save ..\f1985q3, replace;
+
+cd ${SRC}\1985;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	606-616
+	int	QINTRVMO	1007-1008
+	int	QINTRVYR	1009-1010
+	int	INCOMEY1	789-789
+	int	INCOMEY2	791-791
+	double	TOTEXPPQ	1231-1242
+	double	TOTEXPCQ	1243-1254
+	long	FNONFRMX	630-638
+	long	FFRMINCX	329-337
+using 08904-0013-Data.txt;
+save ..\f1985q4, replace;
+
+cd ${SRC}\1985;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	606-616
+	int	QINTRVMO	1007-1008
+	int	QINTRVYR	1009-1010
+	int	INCOMEY1	789-789
+	int	INCOMEY2	791-791
+	double	TOTEXPPQ	1231-1242
+	double	TOTEXPCQ	1243-1254
+	long	FNONFRMX	630-638
+	long	FFRMINCX	329-337
+using 08904-0017-Data.txt;
+save ..\f1985q5, replace;
+
+cd ${SRC}\1986;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 09113-0001-Data.txt;
+save ..\f1986q1, replace;
+
+cd ${SRC}\1986;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 09113-0005-Data.txt;
+save ..\f1986q2, replace;
+
+cd ${SRC}\1986;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 09113-0009-Data.txt;
+save ..\f1986q3, replace;
+
+cd ${SRC}\1986;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 09113-0013-Data.txt;
+save ..\f1986q4, replace;
+
+cd ${SRC}\1986;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 09113-0017-Data.txt;
+save ..\f1986q5, replace;
+
+cd ${SRC}\1987;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 09332-0001-Data.txt;
+save ..\f1987q1, replace;
+
+cd ${SRC}\1987;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 09332-0005-Data.txt;
+save ..\f1987q2, replace;
+
+cd ${SRC}\1987;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 09332-0009-Data.txt;
+save ..\f1987q3, replace;
+
+cd ${SRC}\1987;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 09332-0013-Data.txt;
+save ..\f1987q4, replace;
+
+cd ${SRC}\1987;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 09332-0017-Data.txt;
+save ..\f1987q5, replace;
+
+cd ${SRC}\1988;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 09842-0001-Data.txt;
+save ..\f1988q1, replace;
+
+cd ${SRC}\1988;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 09842-0003-Data.txt;
+save ..\f1988q2, replace;
+
+cd ${SRC}\1988;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 09842-0005-Data.txt;
+save ..\f1988q3, replace;
+
+cd ${SRC}\1988;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 09842-0007-Data.txt;
+save ..\f1988q4, replace;
+
+cd ${SRC}\1988;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 09842-0009-Data.txt;
+save ..\f1988q5, replace;
+
+cd ${SRC}\1989;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 09841-0001-Data.txt;
+save ..\f1989q1, replace;
+
+cd ${SRC}\1989;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 09841-0003-Data.txt;
+save ..\f1989q2, replace;
+
+cd ${SRC}\1989;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 09841-0005-Data.txt;
+save ..\f1989q3, replace;
+
+cd ${SRC}\1989;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 09841-0007-Data.txt;
+save ..\f1989q4, replace;
+
+cd ${SRC}\1989;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 09841-0009-Data.txt;
+save ..\f1989q5, replace;
+
+cd ${SRC}\1990;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 09817-0001-Data.txt;
+save ..\f1990q1, replace;
+
+cd ${SRC}\1990;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 09817-0003-Data.txt;
+save ..\f1990q2, replace;
+
+cd ${SRC}\1990;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 09817-0005-Data.txt;
+save ..\f1990q3, replace;
+
+cd ${SRC}\1990;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 09817-0007-Data.txt;
+save ..\f1990q4, replace;
+
+cd ${SRC}\1990;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 09817-0009-Data.txt;
+save ..\f1990q5, replace;
+
+cd ${SRC}\1991;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 06262-0001-Data.txt;
+save ..\f1991q1, replace;
+
+cd ${SRC}\1991;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 06262-0003-Data.txt;
+save ..\f1991q2, replace;
+
+cd ${SRC}\1991;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 06262-0005-Data.txt;
+save ..\f1991q3, replace;
+
+cd ${SRC}\1991;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 06262-0007-Data.txt;
+save ..\f1991q4, replace;
+
+cd ${SRC}\1991;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 06262-0009-Data.txt;
+save ..\f1991q5, replace;
+
+cd ${SRC}\1992;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 06372-0001-Data.txt;
+save ..\f1992q1, replace;
+
+cd ${SRC}\1992;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 06372-0005-Data.txt;
+save ..\f1992q2, replace;
+
+cd ${SRC}\1992;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 06372-0009-Data.txt;
+save ..\f1992q3, replace;
+
+cd ${SRC}\1992;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 06372-0013-Data.txt;
+save ..\f1992q4, replace;
+
+cd ${SRC}\1992;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 06372-0017-Data.txt;
+save ..\f1992q5, replace;
+
+cd ${SRC}\1993;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 06543-0001-Data.txt;
+save ..\f1993q1, replace;
+
+cd ${SRC}\1993;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 06543-0003-Data.txt;
+save ..\f1993q2, replace;
+
+cd ${SRC}\1993;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 06543-0005-Data.txt;
+save ..\f1993q3, replace;
+
+cd ${SRC}\1993;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 06543-0007-Data.txt;
+save ..\f1993q4, replace;
+
+cd ${SRC}\1994;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 06710-0001-Data.txt;
+save ..\f1994q1, replace;
+
+cd ${SRC}\1994;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 06710-0005-Data.txt;
+save ..\f1994q2, replace;
+
+cd ${SRC}\1994;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 06710-0009-Data.txt;
+save ..\f1994q3, replace;
+
+cd ${SRC}\1994;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 06710-0013-Data.txt;
+save ..\f1994q4, replace;
+
+cd ${SRC}\1995;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 02264-0001-Data.txt;
+save ..\f1995q1, replace;
+
+cd ${SRC}\1995;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 02264-0005-Data.txt;
+save ..\f1995q2, replace;
+
+cd ${SRC}\1995;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 02264-0009-Data.txt;
+save ..\f1995q3, replace;
+
+cd ${SRC}\1995;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 02264-0013-Data.txt;
+save ..\f1995q4, replace;
+
+cd ${SRC}\1995;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	424-434
+	int	QINTRVMO	818-819
+	int	QINTRVYR	820-821
+	int	INCOMEY1	608-608
+	int	INCOMEY2	610-610
+	double	TOTEXPPQ	1527-1538
+	double	TOTEXPCQ	1539-1550
+	long	FNONFRMX	448-456
+	long	FFRMINCX	367-375
+using 02264-0017-Data.txt;
+save ..\f1995q5, replace;
+
+cd ${SRC}\1996;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 02794-0001-Data.txt;
+save ..\f1996q1, replace;
+
+cd ${SRC}\1996;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 02794-0005-Data.txt;
+save ..\f1996q2, replace;
+
+cd ${SRC}\1996;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 02794-0009-Data.txt;
+save ..\f1996q3, replace;
+
+cd ${SRC}\1996;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 02794-0013-Data.txt;
+save ..\f1996q4, replace;
+
+cd ${SRC}\1996;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 02794-0017-Data.txt;
+save ..\f1996q5, replace;
+
+cd ${SRC}\1997;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 02838-0001-Data.txt;
+save ..\f1997q1, replace;
+
+cd ${SRC}\1997;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 02838-0005-Data.txt;
+save ..\f1997q2, replace;
+
+cd ${SRC}\1997;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 02838-0009-Data.txt;
+save ..\f1997q3, replace;
+
+cd ${SRC}\1997;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 02838-0013-Data.txt;
+save ..\f1997q4, replace;
+
+cd ${SRC}\1997;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 02838-0017-Data.txt;
+save ..\f1997q5, replace;
+
+cd ${SRC}\1998;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 02971-0001-Data.txt;
+save ..\f1998q1, replace;
+
+cd ${SRC}\1998;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 02971-0005-Data.txt;
+save ..\f1998q2, replace;
+
+cd ${SRC}\1998;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 02971-0009-Data.txt;
+save ..\f1998q3, replace;
+
+cd ${SRC}\1998;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 02971-0013-Data.txt;
+save ..\f1998q4, replace;
+
+cd ${SRC}\1998;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 02971-0017-Data.txt;
+save ..\f1998q5, replace;
+
+cd ${SRC}\1999;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 03228-0001-Data.txt;
+save ..\f1999q1, replace;
+
+cd ${SRC}\1999;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 03228-0005-Data.txt;
+save ..\f1999q2, replace;
+
+cd ${SRC}\1999;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 03228-0009-Data.txt;
+save ..\f1999q3, replace;
+
+cd ${SRC}\1999;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 03228-0013-Data.txt;
+save ..\f1999q4, replace;
+
+cd ${SRC}\1999;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 03228-0017-Data.txt;
+save ..\f1999q5, replace;
+
+cd ${SRC}\2000;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 03396-0001-Data.txt;
+save ..\f2000q1, replace;
+
+cd ${SRC}\2000;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 03396-0005-Data.txt;
+save ..\f2000q2, replace;
+
+cd ${SRC}\2000;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 03396-0009-Data.txt;
+save ..\f2000q3, replace;
+
+cd ${SRC}\2000;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 03396-0013-Data.txt;
+save ..\f2000q4, replace;
+
+cd ${SRC}\2000;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 03396-0017-Data.txt;
+save ..\f2000q5, replace;
+
+cd ${SRC}\2001;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 03674-0001-Data.txt;
+save ..\f2001q1, replace;
+
+cd ${SRC}\2001;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 03674-0005-Data.txt;
+save ..\f2001q2, replace;
+
+cd ${SRC}\2001;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 03674-0009-Data.txt;
+save ..\f2001q3, replace;
+
+cd ${SRC}\2001;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 03674-0013-Data.txt;
+save ..\f2001q4, replace;
+
+cd ${SRC}\2001;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 03674-0017-Data.txt;
+save ..\f2001q5, replace;
+
+cd ${SRC}\2002;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 03949-0001-Data.txt;
+save ..\f2002q1, replace;
+
+cd ${SRC}\2002;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 03949-0005-Data.txt;
+save ..\f2002q2, replace;
+
+cd ${SRC}\2002;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 03949-0009-Data.txt;
+save ..\f2002q3, replace;
+
+cd ${SRC}\2002;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 03949-0013-Data.txt;
+save ..\f2002q4, replace;
+
+cd ${SRC}\2002;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 03949-0017-Data.txt;
+save ..\f2002q5, replace;
+
+cd ${SRC}\2003;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 04184-0001-Data.txt;
+save ..\f2003q1, replace;
+
+cd ${SRC}\2003;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 04184-0005-Data.txt;
+save ..\f2003q2, replace;
+
+cd ${SRC}\2003;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 04184-0009-Data.txt;
+save ..\f2003q3, replace;
+
+cd ${SRC}\2003;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 04184-0013-Data.txt;
+save ..\f2003q4, replace;
+
+cd ${SRC}\2003;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	351-359
+	long	FFRMINCX	274-282
+using 04184-0017-Data.txt;
+save ..\f2003q5, replace;
+
+cd ${SRC}\2004;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi041x.txt;
+save ..\f2004q1, replace;
+
+cd ${SRC}\2004;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi042.txt;
+save ..\f2004q2, replace;
+
+cd ${SRC}\2004;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi043.txt;
+save ..\f2004q3, replace;
+
+cd ${SRC}\2004;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi044.txt;
+save ..\f2004q4, replace;
+
+cd ${SRC}\2004;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi051.txt;
+save ..\f2004q5, replace;
+
+cd ${SRC}\2005;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi051x.txt;
+save ..\f2005q1, replace;
+
+cd ${SRC}\2005;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi052.txt;
+save ..\f2005q2, replace;
+
+cd ${SRC}\2005;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi053.txt;
+save ..\f2005q3, replace;
+
+cd ${SRC}\2005;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi054.txt;
+save ..\f2005q4, replace;
+
+cd ${SRC}\2005;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi061.txt;
+save ..\f2005q5, replace;
+
+cd ${SRC}\2006;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi061x.txt;
+save ..\f2006q1, replace;
+
+cd ${SRC}\2006;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi062.txt;
+save ..\f2006q2, replace;
+
+cd ${SRC}\2006;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi063.txt;
+save ..\f2006q3, replace;
+
+cd ${SRC}\2006;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi064.txt;
+save ..\f2006q4, replace;
+
+cd ${SRC}\2006;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi071.txt;
+save ..\f2006q5, replace;
+
+cd ${SRC}\2007;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi071x.txt;
+save ..\f2007q1, replace;
+
+cd ${SRC}\2007;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi072.txt;
+save ..\f2007q2, replace;
+
+cd ${SRC}\2007;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi073.txt;
+save ..\f2007q3, replace;
+
+cd ${SRC}\2007;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi074.txt;
+save ..\f2007q4, replace;
+
+cd ${SRC}\2007;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi081.txt;
+save ..\f2007q5, replace;
+
+cd ${SRC}\2008;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi081x.txt;
+save ..\f2008q1, replace;
+
+cd ${SRC}\2008;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi082.txt;
+save ..\f2008q2, replace;
+
+cd ${SRC}\2008;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi083.txt;
+save ..\f2008q3, replace;
+
+cd ${SRC}\2008;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi084.txt;
+save ..\f2008q4, replace;
+
+cd ${SRC}\2008;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi091.txt;
+save ..\f2008q5, replace;
+
+cd ${SRC}\2009;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi091x.txt;
+save ..\f2009q1, replace;
+
+cd ${SRC}\2009;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi092.txt;
+save ..\f2009q2, replace;
+
+cd ${SRC}\2009;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi093.txt;
+save ..\f2009q3, replace;
+
+cd ${SRC}\2009;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi094.txt;
+save ..\f2009q4, replace;
+
+cd ${SRC}\2009;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi101.txt;
+save ..\f2009q5, replace;
+
+cd ${SRC}\2010;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi101x.txt;
+save ..\f2010q1, replace;
+
+cd ${SRC}\2010;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi102.txt;
+save ..\f2010q2, replace;
+
+cd ${SRC}\2010;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi103.txt;
+save ..\f2010q3, replace;
+
+cd ${SRC}\2010;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi104.txt;
+save ..\f2010q4, replace;
+
+cd ${SRC}\2010;
+clear;
+infix
+	long	NEWID	1-8
+	double	FINLWT21	331-341
+	int	QINTRVMO	663-664
+	int	QINTRVYR	665-668
+	int	INCOMEY1	478-478
+	int	INCOMEY2	480-480
+	double	TOTEXPPQ	1325-1336
+	double	TOTEXPCQ	1337-1348
+	long	FNONFRMX	5310-5318
+	long	FFRMINCX	5024-5032
+using fmlyi111.txt;
+save ..\f2010q5, replace;
+
